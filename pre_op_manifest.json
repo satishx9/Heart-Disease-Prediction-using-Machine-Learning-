@@ -1,0 +1,86 @@
+[
+    {
+        "rel_path": "confusion_matrices\\KNN_cm.png",
+        "size": 14164,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "79d538df4abda5e25e786701c48361cf"
+    },
+    {
+        "rel_path": "confusion_matrices\\Logistic Regression_cm.png",
+        "size": 16377,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "506ac38c3965dfddbd31671b2263d84c"
+    },
+    {
+        "rel_path": "confusion_matrices\\Random Forest_cm.png",
+        "size": 15855,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "57c2bfa7e097d6e0f1455889f35e8495"
+    },
+    {
+        "rel_path": "confusion_matrices\\SVM_cm.png",
+        "size": 15279,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "667483019652a8bf9d7ed03fbe398fa2"
+    },
+    {
+        "rel_path": "confusion_matrices\\XGBoost_cm.png",
+        "size": 15658,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "53758576904adc1136464c3efed844b0"
+    },
+    {
+        "rel_path": "eda\\correlation_heatmap.png",
+        "size": 33368,
+        "mtime": "Sat Apr  4 09:26:54 2026",
+        "md5": "f3b71e57e7f856b33ca4143a6fb8c676"
+    },
+    {
+        "rel_path": "eda\\histograms.png",
+        "size": 74628,
+        "mtime": "Sat Apr  4 09:26:55 2026",
+        "md5": "7b1c1f6c82f12552edec1ecef71c03c8"
+    },
+    {
+        "rel_path": "eda\\target_distribution.png",
+        "size": 9188,
+        "mtime": "Sat Apr  4 09:26:54 2026",
+        "md5": "f0564fff973f7deef28b26afbb92af74"
+    },
+    {
+        "rel_path": "feature_importance\\top10_features.png",
+        "size": 20515,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "14d96018399771c238a41dc2df0ea70c"
+    },
+    {
+        "rel_path": "roc_curves\\KNN_roc.png",
+        "size": 24998,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "2a4864f6f236af5773691913f1e81bc7"
+    },
+    {
+        "rel_path": "roc_curves\\Logistic Regression_roc.png",
+        "size": 23861,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "e2a98c45c523017fd43689179fe4dc01"
+    },
+    {
+        "rel_path": "roc_curves\\Random Forest_roc.png",
+        "size": 24430,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "f6800ed8c3fc14ffd0f5319336cefbde"
+    },
+    {
+        "rel_path": "roc_curves\\SVM_roc.png",
+        "size": 21253,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "0c2351587361469cf29ddee74fea3249"
+    },
+    {
+        "rel_path": "roc_curves\\XGBoost_roc.png",
+        "size": 22537,
+        "mtime": "Fri Feb 20 17:31:50 2026",
+        "md5": "516e3adf1d0027dbddfd81b659786946"
+    }
+]
